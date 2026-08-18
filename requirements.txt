@@ -1,0 +1,2 @@
+anthropic==0.120.2
+fastapi[standard]==0.140.0
